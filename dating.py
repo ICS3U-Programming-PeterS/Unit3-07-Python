@@ -6,9 +6,6 @@
 # date their grandchild
 
 
-from ast import Not
-
-
 def main():
 
     # display the starting message
